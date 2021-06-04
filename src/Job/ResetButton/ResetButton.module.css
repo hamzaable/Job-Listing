@@ -1,0 +1,11 @@
+.rstbtn {
+  font-weight: bold;
+  font-size: 16px;
+  color: white;
+  border: 1px black;
+  background-color: rgb(56, 178, 172);
+  border-radius: 10px;
+  letter-spacing: 1px;
+  padding: 10px 7px;
+  cursor: pointer;
+}

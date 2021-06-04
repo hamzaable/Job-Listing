@@ -1,0 +1,85 @@
+.Job {
+  display: block;
+  width: 1200px;
+  height: 113px;
+  border: solid 1px white;
+  border-radius: 10px;
+  margin-bottom: 16px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 2px 7px 6px 1px rgba(0, 0, 0, 0.1);
+}
+@media (max-width: 768px) {
+  .Job {
+    width: 500px;
+  }
+}
+.image {
+  float: left;
+  margin-left: 15px;
+  margin-top: 13px;
+}
+.description {
+  float: left;
+  margin-left: 15px;
+  width: 400px;
+  margin-top: 13px;
+}
+.company {
+  font-weight: bold;
+  color: rgb(56, 178, 172);
+}
+.new {
+  font-weight: bold;
+  margin-left: 18px;
+  color: white;
+  border: 1px black;
+  background-color: rgb(56, 178, 172);
+  border-radius: 20px;
+  font-size: 13px;
+  padding: 4px 7px;
+}
+
+.featured {
+  font-weight: bold;
+  margin-left: 18px;
+  color: white;
+  border: 1px black;
+  background-color: black;
+  border-radius: 20px;
+  font-size: 13px;
+  padding: 4px 7px;
+}
+.position {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.requirements {
+  float: right;
+  margin-left: ;
+  width: 500px;
+  margin-top: 40px;
+}
+.role {
+  font-weight: bold;
+  margin-left: 18px;
+  color: rgb(56, 178, 172);
+  border: 1px black;
+  background-color: rgb(230, 255, 250);
+  border-radius: 10px;
+  font-size: 16px;
+  padding: 10px 7px;
+  cursor: pointer;
+}
+.level {
+  font-weight: bold;
+  margin-left: 18px;
+  color: rgb(56, 178, 172);
+  border: 1px black;
+  background-color: rgb(230, 255, 250);
+  border-radius: 10px;
+  font-size: 16px;
+  padding: 10px 7px;
+  cursor: pointer;
+}
