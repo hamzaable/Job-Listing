@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Job-Listing/static/css/main.a1c12547.chunk.css",
+    "main.js": "/Job-Listing/static/js/main.23d3e065.chunk.js",
+    "main.js.map": "/Job-Listing/static/js/main.23d3e065.chunk.js.map",
+    "runtime-main.js": "/Job-Listing/static/js/runtime-main.2a6e3fee.js",
+    "runtime-main.js.map": "/Job-Listing/static/js/runtime-main.2a6e3fee.js.map",
+    "static/js/2.eb22f1da.chunk.js": "/Job-Listing/static/js/2.eb22f1da.chunk.js",
+    "static/js/2.eb22f1da.chunk.js.map": "/Job-Listing/static/js/2.eb22f1da.chunk.js.map",
+    "index.html": "/Job-Listing/index.html",
+    "precache-manifest.abeb0a24c584ed673bb3ce9ff7e795bb.js": "/Job-Listing/precache-manifest.abeb0a24c584ed673bb3ce9ff7e795bb.js",
+    "service-worker.js": "/Job-Listing/service-worker.js",
+    "static/css/main.a1c12547.chunk.css.map": "/Job-Listing/static/css/main.a1c12547.chunk.css.map",
+    "static/js/2.eb22f1da.chunk.js.LICENSE.txt": "/Job-Listing/static/js/2.eb22f1da.chunk.js.LICENSE.txt",
+    "static/media/bg-header-desktop.svg": "/Job-Listing/static/media/bg-header-desktop.6e2f7196.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a6e3fee.js",
+    "static/js/2.eb22f1da.chunk.js",
+    "static/css/main.a1c12547.chunk.css",
+    "static/js/main.23d3e065.chunk.js"
+  ]
+}
